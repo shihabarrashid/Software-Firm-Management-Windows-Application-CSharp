@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AccountsDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminAddNewAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminAddTeamMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminCreateTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminEditAccountsEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminEditEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminEditProjectManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminMessageInbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminMessages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminProjectManagers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminRemoveAccountsEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminRemoveProjectEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminRemoveProjectManagers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminRemoveTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminViewAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminViewAllAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminViewAllEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminViewTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AllEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManagerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PMAssignProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PMAssignTeam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PMForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PMFunds.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProjectDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

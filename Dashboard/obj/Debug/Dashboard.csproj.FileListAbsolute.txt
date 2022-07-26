@@ -1,0 +1,38 @@
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.Cache
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\CircularProgressBar.dll
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\WinFormAnimation.dll
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\CircularProgressBar.xml
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\bin\Debug\WinFormAnimation.xml
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.frmAnalytics.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.frmCalender.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.frmDashboard.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.frmContactUs.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\Dashboard\Dashboard\obj\Debug\Dashboard.frmSettings.resources
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\bin\Debug\Dashboard.exe.config
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\bin\Debug\Dashboard.exe
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\bin\Debug\Dashboard.pdb
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\bin\Debug\CircularProgressBar.dll
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\bin\Debug\WinFormAnimation.dll
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\bin\Debug\CircularProgressBar.xml
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\bin\Debug\WinFormAnimation.xml
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.csproj.AssemblyReference.cache
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.csproj.CopyComplete
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.exe
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.pdb
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.HRAssignTeam.resources
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.HRAssignPro.resources
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.HRFunds.resources
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.HRMessage.resources
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.HRDashboard.resources
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.HRForm1.resources

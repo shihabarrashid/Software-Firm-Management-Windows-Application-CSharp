@@ -1,0 +1,40 @@
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\OOP2Project.csproj.AssemblyReference.cache
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\OOP2Project.HRAssignPro.resources
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\OOP2Project.HRAssignTeam.resources
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\OOP2Project.HRDashboard.resources
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\OOP2Project.HRForm1.resources
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\OOP2Project.HRFunds.resources
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\OOP2Project.HRMessage.resources
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\OOP2Project.csproj.GenerateResource.cache
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\OOP2Project.csproj.CoreCompileInputs.cache
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.exe
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\Dashboard.pdb
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\bin\Debug\Dashboard.exe.config
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\bin\Debug\Dashboard.exe
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\bin\Debug\Dashboard.pdb
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\bin\Debug\CircularProgressBar.dll
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\bin\Debug\WinFormAnimation.dll
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\bin\Debug\CircularProgressBar.xml
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\bin\Debug\WinFormAnimation.xml
+D:\Dashboard (part 2) By Iweb Makers\Dashboard\obj\Debug\OOP2Project.csproj.CopyComplete
+D:\Project Manager\Dashboard\bin\Debug\Dashboard.exe.config
+D:\Project Manager\Dashboard\bin\Debug\Dashboard.exe
+D:\Project Manager\Dashboard\bin\Debug\Dashboard.pdb
+D:\Project Manager\Dashboard\bin\Debug\CircularProgressBar.dll
+D:\Project Manager\Dashboard\bin\Debug\WinFormAnimation.dll
+D:\Project Manager\Dashboard\bin\Debug\CircularProgressBar.xml
+D:\Project Manager\Dashboard\bin\Debug\WinFormAnimation.xml
+D:\Project Manager\Dashboard\obj\Debug\OOP2Project.csproj.AssemblyReference.cache
+D:\Project Manager\Dashboard\obj\Debug\OOP2Project.PMAssignProject.resources
+D:\Project Manager\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+D:\Project Manager\Dashboard\obj\Debug\OOP2Project.csproj.GenerateResource.cache
+D:\Project Manager\Dashboard\obj\Debug\OOP2Project.csproj.CoreCompileInputs.cache
+D:\Project Manager\Dashboard\obj\Debug\OOP2Project.csproj.CopyComplete
+D:\Project Manager\Dashboard\obj\Debug\Dashboard.exe
+D:\Project Manager\Dashboard\obj\Debug\Dashboard.pdb
+D:\Project Manager\Dashboard\obj\Debug\OOP2Project.PMAssignTeam.resources
+D:\Project Manager\Dashboard\obj\Debug\OOP2Project.PMDashboard.resources
+D:\Project Manager\Dashboard\obj\Debug\OOP2Project.PMFunds.resources
+D:\Project Manager\Dashboard\obj\Debug\OOP2Project.PMessage.resources
+D:\Project Manager\Dashboard\obj\Debug\OOP2Project.PMForm1.resources
